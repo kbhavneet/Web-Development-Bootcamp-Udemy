@@ -1,0 +1,42 @@
+/* Write your code here: */
+h1, h2{
+    color: blueviolet;
+}
+
+div p {
+    color: firebrick;
+}
+
+/* div > p {
+    color: firebrick;
+} */
+
+/* .box > .done{
+    color: firebrick;
+} */
+
+/* .box > p{
+    color: firebrick;
+} */
+
+ .box li {
+    color: blue;
+}
+
+/* div > li {
+    color: blue;
+} //doesnt work */
+
+li.done{
+    color: seagreen;
+}
+
+/* ul > p.done{
+    color: magenta;
+    font-size: 0.5rem;
+} */
+
+ul p.done{
+    color: magenta;
+    font-size: 0.5rem;
+}
